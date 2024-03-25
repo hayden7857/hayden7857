@@ -3,7 +3,7 @@ My name is Tommy. I have an educational background in cybersecurity and some pyt
 
 - 🔭 I’m currently working on a software developement bootcamp by TechElevator
 - 🌱 I’m currently learning C#.NET
-- 💬 Ask me about my family!
+- 💬 Ask me about my family! Interested in my projects? Ask me!
 - 📫 How to reach me: tommyhadyen78@gmail.com
 - ⚡ Fun fact: I used to be a plumber who specialized in drain unclogging (toilet clogs)
 
